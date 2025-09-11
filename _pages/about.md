@@ -20,7 +20,5 @@ Research Interests
 Awards
 ------
 
-* **Future:** Coming soon ...
 * **Best undergraduate graduation thesis award (2023):** Awarded by School of Electrical & Electronic Engineering, HUST.
 * **Honda Award for Young Engineer and Scientist (2022):** Received from the Honda Foundation for outstanding young engineers and scientists in Vietnam.
-* **Bronze Medal at the Math Competition of Coastal and Northern Delta in Vietnam (2019):** Math competition for specialized high schools in northern Vietnam.
